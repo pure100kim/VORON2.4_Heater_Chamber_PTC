@@ -1,6 +1,6 @@
 # VORON2.4_Heater_Chamber_PTC
 
-
+**Part**
 
 M5 T-nut 2EA
 
@@ -11,7 +11,7 @@ M3 insert 2EA
 M3*25mm 2EA
  
 
-Incase of PTC Fixing
+**Incase of PTC Fixing**
 
 M3 insert 2EA
 
