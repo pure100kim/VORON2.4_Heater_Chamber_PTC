@@ -3,13 +3,18 @@
 
 
 M5 T-nut 2EA
+
 M5*10mm 2EA
+
 M3 insert 2EA
+
 M3*25mm 2EA
  
 
 Incase of PTC Fixing
+
 M3 insert 2EA
+
 M3*30mm 2EA
 
 
